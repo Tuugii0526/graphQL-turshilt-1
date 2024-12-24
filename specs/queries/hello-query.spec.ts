@@ -1,4 +1,4 @@
-import { helloQuery } from "@/graphql/resolvers/queries/hello-query";
+import { helloQuery } from "@/graphql/resolvers/queries/hello";
 
 describe("Hello Query", () => {
   it("Should call hello query", () => {
